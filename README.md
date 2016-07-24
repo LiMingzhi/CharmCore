@@ -1,2 +1,1 @@
-# CharmCore
-This is a charm of the core code library
+This is a charm of the core code library...
